@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap');
+
+header>* {
+    display: inline;
+}
+
+header>h1{
+    padding-left: 25px;
+}
+
+header>nav{
+    padding-left: 25px;
+    margin-bottom: 25px;
+}
+
+header>img{
+    margin-left: 25px;
+}
+
+header{
+    font-family: 'Fredoka', sans-serif;
+    background-color: dodgerblue;
+}
+
+body{
+    /* background-image: url(bkluer.png); */
+    height: 2500px;
+    border-radius: 6.25%;
+}
+
+h2{
+    font-family: 'Fredoka', sans-serif;
+    font-size: 50px;
+    
+}
+
+
+
+#name_rr{
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+    font-family: 'Fredoka', sans-serif;
+    
+}
+
+main, html, body{
+    
+    background-image: url(bkluer.jpg);
+}
+
+a{
+    height: 50%;
+    color: darkcyan;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+    font-family: 'Fredoka', sans-serif;
+
+}
+
+#nasa{
+    position: absolute;
+    width: 2950px;
+    height: 1500px;
+    left: 100px;
+    top: 1000px;
+
+    /* background: url(nasa logo.png); */
+    mix-blend-mode: soft-light;
+    
+}
+
+h1{
+    font-size: 65px;
+}
+
+
+#elvis{
+    width: 500px;
+    height: 500px;
+
+}
